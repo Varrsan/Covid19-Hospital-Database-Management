@@ -1,0 +1,62 @@
+guest done a done in real
+           1.test results-sun done a done    both have testt
+           2.test takers-sid  done a done    both have testt
+           3.vaccines available-sun done a done , same as authorities
+           4.no of beds-sid done a done , same as authorities
+           5.no of deceased, confirmed , active , discharged , vaccinated -me done a done
+patient done a done
+           1.details of patient
+               name , age ,gender ,disease ,blood group, phone no , aadhar no,caretaker's name ,caretaker's phoneno,doctor name,food types -sundar
+add newly, update, view     
+authorites done a done
+           1.beds
+           2.oxygen cylinders   
+           3.vaccines available
+           4.vaccinated 
+           5.no of ambulances - kushal
+add newly, update,view
+doctors done a done
+
+           1.doctors details
+                 name age gender phone,aadhar no,assingned to which patient, and speciality - siddharth 
+add newly,update,view  
+
+
+
+doctor done a done
+new doct
+upd doct
+view doct
+upd auth
+view auth
+new pat
+upd pat
+view pat
+upd testt
+view testt
+new guest
+upd guest
+view guest
+
+authorites done a done
+add auth
+upd auth
+view auth
+view pat
+view doct
+view guest
+
+patient done a done
+view pat
+view auth
+view guest
+
+guest done a done in real
+view auth
+add testt
+view testt
+view guest
+
+
+
+

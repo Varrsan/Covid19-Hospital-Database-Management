@@ -1,0 +1,17 @@
+no of doctors
+speciality
+oxygen cylinders
+beds 
+total deceased
+today confirmed 
+total discharged
+active
+no of vaccines
+no of vaccinated
+food types
+ambulances 
+
+
+
+
+
